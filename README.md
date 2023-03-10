@@ -7,6 +7,7 @@
 _For run this website you must follow the section below._
 
 1. `NPM Installation`
+
     ```sh
     npm start
     ```
@@ -15,6 +16,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
 2. `Run Build`
+
     ```sh
     npm run build
     ```
